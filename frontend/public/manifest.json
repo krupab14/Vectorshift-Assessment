@@ -1,0 +1,25 @@
+{
+  "short_name": "Pipeline Builder",
+  "name": "Pipeline Builder - Visual Node Editor",
+  "icons": [
+    {
+      "src": "favicon-16x16.svg",
+      "sizes": "16x16",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "favicon.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "pipeline-icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e233c",
+  "background_color": "#1e233c"
+}
